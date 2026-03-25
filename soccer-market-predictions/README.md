@@ -130,7 +130,7 @@ print(f"Average R²: {scores.mean():.4f} (±{scores.std():.4f})")
 
 While the full source code and datasets cannot be made publicly available due to copyright restrictions, I'm happy to provide additional details:
 
-1. **Request Access**: Email me at `[your mail address]` with a brief description of your interest to request access to private repositories.
+1. **Request Access**: Email me at `olayanjuolawale93@gmail.com` with a brief description of your interest to request access to private repositories.
 
 2. **Live Demo**: I can arrange a Zoom walkthrough demonstrating the project's functionality.
 
@@ -158,7 +158,7 @@ This research has direct applications for:
 **Olayanju Ireoluwa**  
 Master of Science in Data Science and Analytics
 
-## **📩 Let's Connect!**  
+## ** Let's Connect!**  
 Interested in discussing this project or potential opportunities?  
 📧 **Email:** [olayanjuolawale93@gmail.com](mailto:olayanjuolawale93@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/olayanju-ireoluwa-202488a7/](https://linkedin.com/in/olayanju-ireoluwa-202488a7/)  
