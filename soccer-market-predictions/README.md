@@ -158,7 +158,7 @@ This research has direct applications for:
 **Olayanju Ireoluwa**  
 Master of Science in Data Science and Analytics
 
-## ** Let's Connect!**  
+## Let's Connect!  
 Interested in discussing this project or potential opportunities?  
 📧 **Email:** [olayanjuolawale93@gmail.com](mailto:olayanjuolawale93@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/olayanju-ireoluwa-202488a7/](https://linkedin.com/in/olayanju-ireoluwa-202488a7/)  
